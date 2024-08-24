@@ -1,7 +1,5 @@
 # Consumer_Goods_Ad-Hoc_Insight_SQL-
 
-# Live Dashboard
-Explore the live dashboard [here].
 
 # 🌟Overview:
 In this detailed effort, I thoroughly analyzed Atliq Hardware, an imaginary company known for computer hardware. My main aim was to provide the executive management team with valuable insights, and I have accomplished this by using MySQL effectively.
